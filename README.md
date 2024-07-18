@@ -88,7 +88,7 @@
 ###
 <div align="center">  
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=4LL7N&show_icons=true&locale=en&layout=compact" alt="4LL7N" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4LL7N&" alt="4LL7N" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4LL7N" alt="4LL7N" /></p>
 </div>
 
 
