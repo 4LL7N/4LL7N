@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1_ZdGkC_w0ZyIyfRZZlZ7WDTIJFLzNdeV/view?usp=drive_link)
   
-- ⚡ Fun fact about **An introvert tries to be an extrovert**
+- ⚡ Fun fact  **An introvert tries to be an extrovert**
 
 ###
 
