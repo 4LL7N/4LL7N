@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4LL7N&label=Profile%20views&color=0e75b6&style=flat" alt="4LL7N" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Anything, if I know, I will help you , if i do not , let's figure it out together** :smile:
 
@@ -38,6 +38,9 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_NESTJS_ICON.svg" alt="NestJS" width="40" height="40"/>
+</a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
