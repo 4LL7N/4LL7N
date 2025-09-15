@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_NESTJS_ICON.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nestjs/nest/master/logo/logo.svg" alt="nestjs" width="40" height="40"/>
 </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
